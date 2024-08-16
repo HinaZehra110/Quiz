@@ -1,0 +1,55 @@
+.navbar-color{
+    background-color: white;
+}
+
+.heading{
+    color: rgb(102, 102, 235);
+    font-size: 35px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style:normal;
+}
+.log-btn{
+    background-color: rgb(225, 225, 231);
+    border-radius: 35px;
+    border: none;
+    padding: 10px;
+}
+    
+/* option.html */
+.button-options{
+    border: none;
+    background-color: rgb(231, 226, 226);
+    font-size: 20px;
+    color: #585656;
+    border: none;
+   text-decoration: none;
+}
+.button-options:hover{
+    border: none;
+ background-color: rgb(194, 191, 191);
+font-size: 25px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-weight: bold;
+
+}
+
+
+
+.htmlquiz{
+    background-color: rgb(203, 203, 218);
+}
+
+.mcqs{
+    font-size: 18px;
+
+}
+
+.submit-btn{
+    background-color: rgb(185, 51, 51);
+    
+}
+
+.submit-btn:hover{
+    background-color: green;
+    font-size: 20px;
+}
